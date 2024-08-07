@@ -1,0 +1,3 @@
+[submodule "catppuccin-st"]
+	path = catppuccin-st
+	url = https://github.com/catppuccin/st
